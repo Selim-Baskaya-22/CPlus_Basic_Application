@@ -1,0 +1,6 @@
+﻿  Homeworks.cpp
+C:\Users\Casper\source\repos\C++\Homeworks\Homeworks\Homeworks.cpp(21,62): warning C4390: ';': boş denetlenen deyim bulundu; amaçlanan bu muydu?
+C:\Users\Casper\source\repos\C++\Homeworks\Homeworks\Homeworks.cpp(44,59): warning C4390: ';': boş denetlenen deyim bulundu; amaçlanan bu muydu?
+C:\Users\Casper\source\repos\C++\Homeworks\Homeworks\Homeworks.cpp(68,64): warning C4390: ';': boş denetlenen deyim bulundu; amaçlanan bu muydu?
+C:\Users\Casper\source\repos\C++\Homeworks\Homeworks\Homeworks.cpp(69,64): warning C4390: ';': boş denetlenen deyim bulundu; amaçlanan bu muydu?
+  Homeworks.vcxproj -> C:\Users\Casper\source\repos\C++\Homeworks\Debug\Homeworks.exe
