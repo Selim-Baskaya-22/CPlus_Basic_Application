@@ -1,0 +1,3 @@
+﻿  LessonApplication.cpp
+C:\Users\Casper\source\repos\LessonApplication\LessonApplication\LessonApplication.cpp(12,48): warning C4390: ';': boş denetlenen deyim bulundu; amaçlanan bu muydu?
+  LessonApplication.vcxproj -> C:\Users\Casper\source\repos\LessonApplication\Debug\LessonApplication.exe
